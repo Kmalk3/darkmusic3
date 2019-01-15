@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= 7
+game= 7play | Last Music
+stayinchannel=true
+songinstatus=true 
+token=NTM0NzQwMDMxNjc2NDgxNTM2.Dx9_aQ.rqGPXC52N_miTg2n7-Npz_0yFbM
+owner=512626606301249556
